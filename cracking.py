@@ -646,15 +646,15 @@ logo25 = """
 \033[1;93m ˜”*°•.˜”*°• BCA •°*”˜.•°*”˜
 \033[1;93m ˜”*°•.˜”*°• TEAM •°*”˜.•°*”˜
 
-\033[1;91m--> TEAM     :-
+\033[1;91m--> TEAM       :- Bd Cyber Anonymous
 
-\033[1;92m--> FACEBOOK :- cyber king squad
+\033[1;92m--> FACEBOOK   :- POLIN KHAN
 
-\033[1;93m--> YOUTUBE :-  cyber king squad
+\033[1;93m--> TOOLS_MAKE :- RH@KING
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- this tools only use cyber king squad:-)
+\033[1;95m--> NOTE  :- Don't Miss use :-)
 
 """
 
